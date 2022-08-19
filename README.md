@@ -4,7 +4,7 @@ Examples using traditional and ESM imports in Node.js and the browser
 ## Browser examples
 
 - [browser-old](./browser-old) example of traditional JavaScript in the browser ([View it live](https://natesilva.github.io/esm-examples/browser-old/))
-- [browser-new](./browser-new) example using ESM in the browser ([View it live](https://natesilva.github.io/esm-examples/browser-old/))
+- [browser-new](./browser-new) example using ESM in the browser ([View it live](https://natesilva.github.io/esm-examples/browser-new/))
 
 ## Node.js examples
 
